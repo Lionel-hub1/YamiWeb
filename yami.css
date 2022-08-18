@@ -1,0 +1,103 @@
+body{
+    background-color: white;
+    background-image: url(darkrestau.jpg);
+    background-size: cover;
+}
+#logo-brand{
+    width: 100px;
+}
+#bdylogo{
+    width: 150px;
+    height: auto;
+}
+.our-nav{
+    background-color: rgb(110, 62, 30) !important;
+    width: 100%;
+}
+.clearfix{
+    justify-content: space-between;
+}
+.intro{
+    background-color: rgba(0, 0, 0, 0.753);
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+    height: 500px;
+    margin-bottom: 200px;
+    border-radius: 10px;
+}
+#accountx{
+    padding-left: 30px;
+    color: white;
+}
+/*Footer  start*/
+
+#footer{
+    background-color:rgb(41, 37, 37);
+    width:100%;
+    font-family:Helvetica;
+    } 
+  #footer h4{
+    color:#FFF;
+    font-family:monospace;
+    font-size:22px;
+    font-weight:bold;
+    text-align:left;
+    text-transform:uppercase;
+    }
+  
+  #footer hr{
+    width:200px;
+    text-align:center;
+    display:inline-block;
+    }
+    
+  #footer h5{
+    text-align:center;
+    color:#FFF;
+    } 
+    
+  #footer a{
+    color:#FFF;
+    transition:0.s;
+    text-decoration:none;
+    } 
+    
+  #footer p{
+    color:#FFF;
+    }
+    
+  #footer p a:hover{
+    color:#000
+    }
+      
+  #icon{
+    text-align:center
+    }
+    
+  #icon ul li {
+    display:inline-block;
+    border-radius:10px;
+    line-height:150%;
+    width:55px;
+    height:41px;
+    margin-right:10px;
+    box-shadow:#000 1px 1px 15px;
+    line-height:40px;
+    overflow:hidden;
+    transition:0.3s;
+    } 
+    
+  #icon ul li a{
+    font-size:28px;
+  
+    } 
+    
+  #icon ul li:hover{
+    transform:scale(0.9);
+    }
+    
+    .fixfoot{
+        margin-bottom:0px;
+    }
+      /*Footer End*/
